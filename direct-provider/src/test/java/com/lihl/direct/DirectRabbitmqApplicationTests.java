@@ -1,9 +1,6 @@
-package rabbitmq;
+package com.lihl.direct;
 
 
-
-import com.lihl.direct.DirectProviderApplication;
-import com.lihl.direct.Sender;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
